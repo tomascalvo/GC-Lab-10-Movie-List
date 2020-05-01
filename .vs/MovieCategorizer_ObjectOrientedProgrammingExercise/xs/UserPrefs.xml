@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{BDE73CF8-A7AD-4ABB-A7AF-86373953B0B1}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="0" Y="23" Width="1920" Height="1155">
+        <Files>
+          <File FileName="../GC_Day9_ObjectsPractice/GC_Day9_ObjectsPractice/Program.cs" Line="42" Column="41" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MovieCategorizer__ObjectOrientedProgrammingExercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
